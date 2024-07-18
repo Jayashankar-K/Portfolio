@@ -2,6 +2,7 @@
   Portfolio Website <br/>
 </h2>
 <h3 align="center">View the website by clicking <a href="https://kjayashankar.vercel.app/" target="_blank">here</a></h3>
+<h3 align="center">For better viewing experience , use a Desktop/Laptop.</h3>
 
 
 
